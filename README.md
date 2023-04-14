@@ -1,7 +1,8 @@
 ![Header](./github-header-image.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwalmaddy&label=Profile%20views&color=0e75b6&style=flat" alt="agarwalmaddy" /> </p>
+
 <h1 align="center">Hi 👋, I'm Madhur Agarwal</h1>
 <h3 align="center">Full Stack Developer - Pre-Final Year Student - India</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwalmaddy&label=Profile%20views&color=0e75b6&style=flat" alt="agarwalmaddy" /> </p>
 
@@ -9,15 +10,19 @@
 
 <p align="left"> <a href="https://twitter.com/agrwl_maddy1908" target="blank"><img src="https://img.shields.io/twitter/follow/agrwl_maddy1908?logo=twitter&style=for-the-badge" alt="agrwl_maddy1908" /></a> </p>
 
-- 🔭 I’m currently working on **A Patient-Doctor interaction platform for HIV-AIDS treatment.**
+- 🔭 I’m currently working on **Hostel Complaint Management System**
 
 - 🌱 I’m currently learning **MERN Stack - DSA using Java**
+
+- 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
 - 💬 Ask me about **Database Management System - Front-End Development - Java Concepts**
 
 - 📫 We can connect via **madhur1812agarwal@gmail.com**
 
-- ⚡ Fun fact **I am an Esports Enthusiast**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KVzNXbqb0zUtPUMtDyMoKHU8ObSrnkV6/view?usp=sharing](https://drive.google.com/file/d/1KVzNXbqb0zUtPUMtDyMoKHU8ObSrnkV6/view?usp=sharing)
+
+- ⚡ Fun fact **Esports is more than just a hobby for me. It is a way of life. I enjoy watching and playing various Esports titles such as Valorant, Pokemon Unite, and BGMI, which are among the most popular games in India**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
