@@ -1,8 +1,9 @@
 ![Header](./github-header-image.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwalmaddy&label=Profile%20views&color=0e75b6&style=flat" alt="agarwalmaddy" /> </p>
-
 <h1 align="center">Hi 👋, I'm Madhur Agarwal</h1>
 <h3 align="center">Full Stack Developer - Pre-Final Year Student - India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwalmaddy&label=Profile%20views&color=0e75b6&style=flat" alt="agarwalmaddy" /> </p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwalmaddy&label=Profile%20views&color=0e75b6&style=flat" alt="agarwalmaddy" /> </p>
 
