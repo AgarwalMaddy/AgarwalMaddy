@@ -20,7 +20,7 @@
 
 - 📫 We can connect via **madhur1812agarwal@gmail.com**
 
-- 📄 Know about my experiences [Madhur Agarwal](tinyurl.com/resumemadhur)
+- 📄 Know about my experiences [Resume](tinyurl.com/resumemadhur)
 
 - ⚡ Fun fact **Esports is more than just a hobby for me. It is a way of life. I enjoy watching and playing various Esports titles such as Valorant, Pokemon Unite, and BGMI, which are among the most popular games in India**
 
