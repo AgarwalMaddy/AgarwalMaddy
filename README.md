@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
-🔭 I'm currently working to improve my skills in Web Development and DSA.<br>👯 I’m looking to collaborate on Web Dev Projects.<br>🤝 I’m looking for help with Data Structures and Algorithms.<br>🌱 I’m currently learning Front-End Development and DSA.<br>💬 Ask me about DBMS, SQL, JAVA, and Web Development<br>⚡ Fun fact I'm a huge ESports fan and love to follow ESports tournaments in India for different ESports such as BGMI and Valorant.
+🔭 I'm currently working to improve my skills in Web Development and Data Structures and Algorithms.<br>👯 I’m looking to collaborate on Web Dev Projects.<br>🤝 I’m looking for help with Data Structures and Algorithms.<br>🌱 I’m currently learning Front-End Development and DSA.<br>💬 Ask me about DBMS, SQL, JAVA, and Web Development<br>⚡ Fun fact I'm a huge ESports fan and love to follow ESports tournaments in India for different ESports such as BGMI and Valorant.
 
 
 ## 🌐 Socials:
