@@ -1,4 +1,6 @@
-![Header](./github-header-image.pnga)
+![Header](./github-header-image.png)
+
+
 # 💫 About Me:
 🔭 I'm currently working to improve my skills in Web Development and Data Structures and Algorithms.<br>👯 I’m looking to collaborate on Web Dev Projects.<br>🤝 I’m looking for help with Data Structures and Algorithms.<br>🌱 I’m currently learning Front-End Development and DSA.<br>💬 Ask me about DBMS, SQL, JAVA, and Web Development<br>⚡ Fun fact I'm a huge ESports fan and love to follow ESports tournaments in India for different ESports such as BGMI and Valorant.
 
@@ -11,9 +13,11 @@
 
 ## Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/madhur1812agarwal?theme=dark&font=Poppins&ext=activity)
+ 
+## Most used Languages
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgarwalMaddy&locale=en&hide_title=false&layout=compact&card_width=390&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+[![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&bg_color=000000&color=DF6D74&line=E4BF7A&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
