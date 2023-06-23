@@ -35,6 +35,7 @@
 </p>
  
 # 📈 My Stats
+<br>
 <p align = "center">
 
  <img width="42.5%" src="https://leetcard.jacoblin.cool/madhur1812agarwal?theme=dark&font=Kreon&ext=activity" />
@@ -47,6 +48,7 @@
 
 ---
 ## Profile Vists
+<br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/AgarwalMaddy/count.svg">
 </p>
