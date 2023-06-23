@@ -20,7 +20,7 @@
  
 </p>
 
-[![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&bg_color=292c35&color=54575c&line=60d9fb&point=60d9fb&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&theme=react-dark)
 
 ---
 ## Profile Vists
