@@ -13,9 +13,6 @@
  <a href="https://www.instagram.com/agarwalmadhur19/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://m.facebook.com/madhur.agarwal.9638">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
  <a href="https://github.com/AgarwalMaddy">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
