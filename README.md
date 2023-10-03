@@ -44,10 +44,10 @@
  
 </p>
 
-![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&theme=merko)
+<!-- ![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&theme=merko) -->
 
 ---
-## Profile Vists
+## Profile Visits
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/AgarwalMaddy/count.svg">
