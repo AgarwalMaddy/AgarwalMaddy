@@ -44,7 +44,7 @@
  
 </p>
 
-<!-- ![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&theme=merko) -->
+ ![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&theme=merko)
 
 ---
 ## Profile Visits
