@@ -45,7 +45,7 @@
  
 </p>
 
- ![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&theme=merko)
+ ![Madhur's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&bg_color=0d1117&color=1f94b2&line=ffffff&point=1e648f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 ---
 ## Profile Visits
