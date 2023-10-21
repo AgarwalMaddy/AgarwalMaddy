@@ -40,9 +40,9 @@
  <img width="42.5%" src="https://leetcard.jacoblin.cool/madhur1812agarwal?theme=dark&font=Kreon&ext=activity" />
  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgarwalMaddy&langs_count=4&theme=dark&font=Kreon"/> 
 </p>
-<p align = "center">
+<!-- <p align = "center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AgarwalMaddy&theme=dark"/></a>
-</p>
+</p> -->
 
 
 [![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&bg_color=0d1117&color=1f94b2&line=ffffff&point=1e648f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
