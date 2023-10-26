@@ -37,7 +37,7 @@
 # 📈 My Stats
 <br>
 <p align = "center">
- <img width="42.5%" src="https://leetcard.jacoblin.cool/madhur1812agarwal?theme=dark&font=Kreon&ext=activity" />
+ <img width="42.5%" src="https://leetcard.jacoblin.cool/agarwalmadhur19?theme=dark&font=Kreon&ext=activity" />
  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgarwalMaddy&langs_count=4&theme=dark&font=Kreon"/> 
 </p>
 <!-- <p align = "center">
