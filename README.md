@@ -26,9 +26,9 @@
   <br>
   <img src= "https://skillicons.dev/icons?i=react,bootstrap&perline=2">
   <br>
-  <img src= "https://skillicons.dev/icons?i=mysql,php,mongodb&perline=3">
+  <img src= "https://skillicons.dev/icons?i=mysql&perline=3">
   <br>
-  <img src= "https://skillicons.dev/icons?i=figma,idea,visualstudio,vscode,&perline=4">
+  <img src= "https://skillicons.dev/icons?i=figma,idea,vscode,&perline=4">
 </p>
  
 # 📈 My Stats
