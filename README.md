@@ -41,8 +41,8 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AgarwalMaddy&theme=dark"/></a>
 </p> -->
 
-
-[![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&bg_color=0d1117&color=1f94b2&line=ffffff&point=1e648f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--
+[![Madhur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AgarwalMaddy&bg_color=0d1117&color=1f94b2&line=ffffff&point=1e648f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ---
 ## Profile Visits
