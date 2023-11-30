@@ -22,13 +22,13 @@
 # 💻 Languages and Tools:
 <br>
 <p align = "center">
-  <img src= "https://skillicons.dev/icons?i=java,html,css,js&perline=4">
+  <img src= "https://skillicons.dev/icons?i=html,css,js&perline=4">
   <br>
   <img src= "https://skillicons.dev/icons?i=react,bootstrap&perline=2">
   <br>
-  <img src= "https://skillicons.dev/icons?i=mysql&perline=3">
+  <img src= "https://skillicons.dev/icons?i=java,mysql&perline=3">
   <br>
-  <img src= "https://skillicons.dev/icons?i=figma,idea,vscode,&perline=4">
+  <img src= "https://skillicons.dev/icons?i=figma,idea,vscode&perline=4">
 </p>
  
 # 📈 My Stats
